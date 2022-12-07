@@ -1,16 +1,19 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=LeeChangHoon&color=gradient)
 
-<!--
-**anotheranotherhoon/anotheranotherhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Contact & Channels 
+ <a href="https://velog.io/@anotherhoon"><img src="https://img.shields.io/badge/Tech%20Blog-F6F8FA?style=flat-square&logo=Vimeo&logoColor=blue&link=https://ghksals0904.tistory.com"/></a>&nbsp;
+ <a href="mailto:dev.changhoon1030@gmail.com "><img src="https://img.shields.io/badge/Gmail-F6F8FA?style=flat-square&logo=Gmail&logoColor=red&link=dev.ghksals09041@gmail.com"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🏊 TechStack
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/recoil-007AF4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAxMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTUuMDAwNDMgMEM2LjA4NzIzIDAgNi45Njc1IDAuNzU2MzQ2IDYuOTY3NSAxLjY5MDE0QzYuOTY3NSAyLjM4NjI0IDYuNDc2NjggMi45ODQ0NyA1Ljc3NTU1IDMuMjQzODhMNS43NTQyMiAzLjI1MTYzVjMuOTYzNjFDNS43NTQyMiA0LjY1MDkyIDYuMzQ4NzkgNS4yMzYwNiA3LjEzOTY5IDUuMzMxNjVMNy4xNjM3MSA1LjMzNDM2TDcuNDAxMjEgNS4zNjA5OEM4LjY4Njc2IDUuNTAwNyA5LjY4MzIxIDYuMjk0NzggOS45Mzg3NSA3LjM4NjA1QzEwLjE5NDMgOC40NzczMiA5LjYzNjcyIDkuNTQxOTggOC41MTM3OSAxMC4xMDA5QzguMDExMDYgMTAuMzQ5NiA3LjQ2MzM2IDEwLjUwMTggNi44ODU0MyAxMC41NTMxTDYuODU2NTMgMTAuNTU1NkwzLjI4NjM3IDEwLjg0MzlDMi45MjIzOCAxMC44NzI4IDIuNTc5MDMgMTAuOTY4MSAyLjI2MTUyIDExLjEyNTdDMS42MTM1NiAxMS40NDczIDEuNDg3MDcgMTIuMDA0IDEuNTg1MTYgMTIuNDE2NUMxLjY4MjMxIDEyLjgyNSAyLjA0NTA4IDEzLjI4OTkgMi43NzExNyAxMy4zNzY2TDMuMDMwNzggMTMuNDA1OEM0LjU5NDg1IDEzLjU3MjcgNS43NzY4OCAxNC43MTEzIDUuODAwMzIgMTYuMDYxOUw1LjgwMDcxIDE2LjEwMjlWMTYuNzYzOUM2LjQ4OTkyIDE3LjAyNTYgNi45NzI2NiAxNy42MjAxIDYuOTcyNjYgMTguMzA5OUM2Ljk3MjY2IDE5LjI0MzYgNi4wOTIzOSAyMCA1LjAwNTU5IDIwQzMuOTE4ODMgMjAgMy4wMzg1MiAxOS4yNDM2IDMuMDM4NTIgMTguMzA5OUMzLjAzODUyIDE3LjYxNiAzLjUyNjg0IDE3LjAxNzcgNC4yMjU0MyAxNi43NTgzTDQuMjQ2NjQgMTYuNzUwNlYxNi4xMDI5QzQuMjQ2NjQgMTUuNDE1NiAzLjY1MjExIDE0LjgzMDUgMi44NjEyMSAxNC43MzQ5TDIuODM3MTkgMTQuNzMyMkwyLjU5OTY5IDE0LjcwNTVDMS4zMTQxNCAxNC41NjU4IDAuMzE3NjU3IDEzLjc3MTcgMC4wNjIxMTAxIDEyLjY4MDVDLTAuMTk2MDE1IDExLjU4OTIgMC4zNjQxNDEgMTAuNTI0NSAxLjQ4NzExIDkuOTY1NjFDMS45ODk4NSA5LjcxNjkxIDIuNTM3NSA5LjU2NDc3IDMuMTE1NDcgOS41MTMzOEwzLjE0NDM4IDkuNTEwOUw2LjcxNDUzIDkuMjIyNTlDNy4wNzg1MiA5LjE5MzczIDcuNDIxODQgOS4wOTgzOCA3LjczOTM4IDguOTQwOUM4LjM4NzMxIDguNjE5MjYgOC41MTM3OSA4LjA2MjU1IDguNDE1NzEgNy42NDk5OUM4LjMxODYgNy4yNDE1NiA3Ljk1NTgyIDYuNzc2NjEgNy4yMjk2OSA2LjY4OTg4TDYuOTcwMDggNi42NjA3NUM1LjQwNjAyIDYuNDkzODcgNC4yMjQwMyA1LjM1NTI0IDQuMjAwNTUgNC4wMDQ2M0w0LjIwMDE2IDMuOTYzNjFWMy4yMzM4OEMzLjUxMzUyIDIuOTY5OTQgMy4wMzMzNiAyLjM3NzcyIDMuMDMzMzYgMS42OTAxNEMzLjAzMzM2IDAuNzU2MzQ2IDMuOTEzNjcgMCA1LjAwMDQzIDBaTTcuMzY1MDQgMTEuMzA5OEw4LjQ2NzM1IDEyLjM0NzhDOS4yODc2NiAxMy4xMjI5IDkuNzQzNzIgMTQuMTIxOSA5Ljc1Mjc4IDE1LjE2NjNMOS43NTI4OSAxNS4xOTc5SDguMTk2MjVDOC4xOTYyNSAxNC40ODIxIDcuODkwMTYgMTMuNzk2NyA3LjMzNTQ3IDEzLjI2NDRMNy4zMTg2IDEzLjI0ODNMNS40NDQ0NiAxMS40ODI3TDYuOTQxNzIgMTEuMzYwOEw2Ljk4ODk5IDExLjM1NjJDNy4xMDExOCAxMS4zNDUzIDcuMjEzMTcgMTEuMzMyNiA3LjMyMzY3IDExLjMxNjFMNy4zNjUwOCAxMS4zMDk4SDcuMzY1MDRaTTEuNjY3NzcgNC44MTc1NkMxLjY2Nzc3IDUuNTMzMzkgMS45NzM5MSA2LjIxODgyIDIuNTI4NiA2Ljc1MTEzTDIuNTQ1NDcgNi43NjcyMUw0LjQyNDc3IDguNTM3MkwzLjA0MTEzIDguNjUwMzFMMyA4LjY1MzU2QzIuODQ5MzQgOC42NjU5OCAyLjY5ODkxIDguNjg0NzQgMi41NTE5NSA4LjcwOTg1TDIuNTExOTIgOC43MTY4NkwxLjM5OTMgNy42Njc3NEMwLjU3ODk4NSA2Ljg5NDc4IDAuMTIyOTMgNS44OTM1OSAwLjExMzg2OCA0Ljg0OTIxTDAuMTEzNzUxIDQuODE3NTZIMS42Njc3N1Y0LjgxNzU2WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==&logoColor=white)
+
+
+
+
+![anotheranotherhoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anotheranotherhoon&hide=contribs)
