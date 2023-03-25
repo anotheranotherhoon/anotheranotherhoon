@@ -1,8 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=LeeChangHoon&color=gradient)
 
 # 👋 Contact & Channels 
- <a href="https://velog.io/@anotherhoon"><img src="https://img.shields.io/badge/Tech%20Blog-F6F8FA?style=flat-square&logo=Vimeo&logoColor=blue&link=https://ghksals0904.tistory.com"/></a>&nbsp;
- <a href="mailto:dev.changhoon1030@gmail.com "><img src="https://img.shields.io/badge/Gmail-F6F8FA?style=flat-square&logo=Gmail&logoColor=red&link=dev.ghksals09041@gmail.com"></a>
+ <a href="https://dev-portfolio-changhoon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5367FF.svg?style=flat-square&logo=Portfolio&logoColor=5367FF"/></a>
+ <a href="https://velog.io/@anotherhoon"><img src="https://img.shields.io/badge/Tech%20Blog-F6F8FA?style=flat-square&logo=Vimeo&logoColor=blue&link=https://velog.io/@anotherhoon"/></a>&nbsp;
+ <a href="mailto:changhoon1030@gmail.com "><img src="https://img.shields.io/badge/Gmail-F6F8FA?style=flat-square&logo=Gmail&logoColor=red&link=changhoon1030@gmail"></a>
 
 
 # 🏊 TechStack
